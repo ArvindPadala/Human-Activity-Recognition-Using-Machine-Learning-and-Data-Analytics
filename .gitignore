@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset
+DataSet/
+HAR_dataset.rar
+
+# Model artifacts
+*.h5
+saved_model/
+logs/
+frozen_graph.pb
+frozen_graph.pbtxt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+*.log
